@@ -67,7 +67,6 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/SaiVishal1105/D-FLIPDLOP-NEGEDGE/assets/145742557/ac24aeaa-c0c7-4b3e-b6f2-f40112dea7f7)
 
-**RESULT:**
+**RESULT**
  Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
 
-**RESULTS**
